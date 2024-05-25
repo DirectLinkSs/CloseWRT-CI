@@ -22,8 +22,10 @@ CONFIG_PACKAGE_kmod-usb-net-qmi-wwan=y
 CONFIG_PACKAGE_uqmi=y
 CONFIG_PACKAGE_luci-proto-qmi=y
 CONFIG_PACKAGE_kmod-usb-serial-option=y
+CONFIG_PACKAGE_kmod-usb-serial-qualcomm=y
 CONFIG_PACKAGE_picocom=y
 
 CONFIG_PACKAGE_luci-proto-mbim=y
 CONFIG_PACKAGE_umbim=y
 CONFIG_PACKAGE_net-cdc-mbim=y
+
